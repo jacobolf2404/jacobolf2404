@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jacobolf2404
-- 👀 I’m interested in coding, soccer, learning!
-- 🌱 I’m currently learning Java for my AP JAVA HS course
-- 💞️ I’m looking to collaborate on CodeHs problems and replit projects
+- 👀 I’m interested in coding, soccer and learning!
+- 🌱 I’m currently learning Java 
+- 💞️ I’m looking to collaborate on new and exciting projects
 - 📫 Reach out to me on @jacobolopezf06@gmail.com
 
 <!---
