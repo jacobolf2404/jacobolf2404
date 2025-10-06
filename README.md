@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobolf2404
 - 👀 I’m interested in coding, soccer and learning!
-- 🌱 I’m currently learning MIPS Assembly 
+- 🌱 I’m currently learning MIPS Assembly in my Computer Architecture class
 - 💞️ I’m looking to collaborate on new and exciting projects
 - 📫 Reach out to me @jacobo.lopez-fernandez@duke.edu
 
